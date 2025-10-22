@@ -1,0 +1,23 @@
+body {
+  background-color: beige;
+  font-size: 15px;
+  color: salmon
+}
+
+h1 {
+  background-color: peachpuff;
+  font-size: 25px;
+  color: salmon
+}
+h2 {
+  background-color: beige;
+  font-size: 20px;
+  color: salmon
+}
+button {
+  background-color: peachpuff;
+  font-size: 15px;
+  color: salmon;
+  border: peachpuff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
