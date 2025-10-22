@@ -1,5 +1,5 @@
 body {
-  background-color: beige;
+  background-color: rgb(245, 240, 220);
   font-size: 15px;
   color: salmon
 }
@@ -10,7 +10,7 @@ h1 {
   color: salmon
 }
 h2 {
-  background-color: beige;
+  background-color:rgb(245, 240, 220);
   font-size: 20px;
   color: salmon
 }
